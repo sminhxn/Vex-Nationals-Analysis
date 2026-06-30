@@ -12,14 +12,6 @@ In VEX Robotics competitions, qualification rankings are determined by three met
 | **AP** | Autonomous Points | Sum of Autonomous Bonus points earned across matches. 1st tiebreaker (Second basis of ranking Teams). |
 | **SP** | Strength of Schedule Points | Sum of the losing alliance's scores in matches played. 2nd tiebreaker (Third basis of ranking Teams). |
 
-Additionally, team performance is evaluated through:
-
-| Metric | Full Name | Description |
-|--------|-----------|-------------|
-| **OPR** | Offensive Power Rating | Estimated contribution to alliance scores. Higher is better. |
-| **DPR** | Defensive Power Rating | Estimated contribution to opposing alliance scores. Lower is better. |
-| **CCWM** | Calculated Contribution to Win Margin | OPR − DPR. Overall contribution to win margin. |
-
 ## Research Question
 **"Do AP and SP meaningfully improve qualification rankings beyond WP, and is their current order as tiebreakers statistically justified?"**
 
