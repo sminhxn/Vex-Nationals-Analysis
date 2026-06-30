@@ -9,8 +9,8 @@ In VEX Robotics competitions, qualification rankings are determined by three met
 | Metric | Full Name | Description |
 |--------|-----------|-------------|
 | **WP** | Win Points | Awarded for winning or tying a match. Primary ranking criterion. |
-| **AP** | Autonomous Points | Sum of Autonomous Bonus points earned across matches. 1st tiebreaker. |
-| **SP** | Strength of Schedule Points | Sum of the losing alliance's scores in matches played. 2nd tiebreaker. |
+| **AP** | Autonomous Points | Sum of Autonomous Bonus points earned across matches. 1st tiebreaker (Second basis of ranking Teams). |
+| **SP** | Strength of Schedule Points | Sum of the losing alliance's scores in matches played. 2nd tiebreaker (Third basis of ranking Teams). |
 
 Additionally, team performance is evaluated through:
 
