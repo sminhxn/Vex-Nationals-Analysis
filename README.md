@@ -15,6 +15,12 @@ In VEX Robotics competitions, qualification rankings are determined by three met
 ## Research Question
 **"Do AP and SP meaningfully improve qualification rankings beyond WP, and is their current order as tiebreakers statistically justified?"**
 
+## SQ1
+
+## SQ2
+
+## SQ3
+
 ## Final Conclusion
 WP is doing almost all of the work. With r = -0.9176 and R² = 0.8419, Win Points alone explains roughly 84% of the variance in final ranking. This confirms that WP is, by a wide margin, the dominant factor in qualification ranking, which makes sense, since it directly reflects match outcomes. But the fact that R² isn't 1.0 also confirms that ties exist and a tiebreaker system is genuinely necessary.
 AP is an effective, statistically justified tiebreaker. Within WP-tied teams, AP retains a strong correlation with rank (r = -0.7302) and an exceptionally high pair-ordering accuracy (98.21%), meaning that in the vast majority of cases, the team with more Autonomous Points actually does rank higher. The ANOVA result (F = 19.46, p < 0.000001) reinforces this: AP differences across rank groups are not due to chance. AP isn't just present in the system, it's doing real, measurable work as the first tiebreaker.
